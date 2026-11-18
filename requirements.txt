@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pandas
+causaldata
+statsmodels
+linearmodels
+rdrobust
+rddensity
+lpdensity
+ipykernel
+nbconvert
